@@ -6,7 +6,7 @@ const appVersion = require('../../package.json').version
 let updateFeed = ''
 let initialized = false
 const platform = `${os.platform()}_${os.arch()}`
-const nutsURL = 'https://electron-autoupdater-starter-server.now.sh'
+const nutsURL = 'https://electron-auto-updater-example-pz6jkmj1e.now.sh'
 
 if (os.platform() === 'darwin') {
   updateFeed = `${nutsURL}/update/${platform}/${appVersion}`

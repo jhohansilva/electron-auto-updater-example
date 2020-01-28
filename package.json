@@ -1,6 +1,6 @@
 {
   "name": "electron-auto-updater-example",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Electron auto updater example",
   "main": "src/main.js",
   "homepage" : "http://192.168.0.100/pedidos/paginas/logeo.html",
