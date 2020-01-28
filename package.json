@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "Electron auto updater example",
   "main": "src/main.js",
+  "homepage" : "http://192.168.0.100/pedidos/paginas/logeo.html",
   "scripts": {
     "dev": "cross-env NODE_ENV=development electron .",
     "pack": "electron-builder --dir",
